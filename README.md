@@ -1,7 +1,7 @@
 # AI Fluency Training
 
-**Name:** MUGESH R
-**Roll number:** 7376242AD223
+**Name:** PUZHAL MANI S
+**Roll number:** 7376242AD262
 
 One folder per day. Each folder has its own README with setup and run steps.
 
